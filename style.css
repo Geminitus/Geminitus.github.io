@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(0, 255, 255, 0.301);
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.heading {
+    background-color: rgba(0, 68, 214, 0.788);
+    width: 100%;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.content {
+    margin-right: 25px;
+    margin-left: 25px;
+    max-width: 1000px;
+
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border:1px solid black;
+}
+
+.profilePic {
+    width: 20%;
+}
+
+.pp {
+    border-bottom:3px solid rgb(75, 74, 74);
+}
+
+.about {
+    display: flex;
+}
+
+.text {
+    margin-left: 10px;
+}
+
+.content-box{
+    display:flex;
+    border-bottom: 1px dashed grey;
+}
+
+.project-pics{
+    width: 450px;
+}
